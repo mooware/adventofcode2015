@@ -9,32 +9,32 @@ pcre = "^0.2"
 
 [[bin]]
 name = "day1"
-path = "day1.rs"
+path = "src/day1.rs"
 
 [[bin]]
 name = "day2"
-path = "day2.rs"
+path = "src/day2.rs"
 
 [[bin]]
 name = "day3"
-path = "day3.rs"
+path = "src/day3.rs"
 
 [[bin]]
 name = "day3_2"
-path = "day3_2.rs"
+path = "src/day3_2.rs"
 
 [[bin]]
 name = "day4"
-path = "day4.rs"
+path = "src/day4.rs"
 
 [[bin]]
 name = "day5"
-path = "day5.rs"
+path = "src/day5.rs"
 
 [[bin]]
 name = "day5_2"
-path = "day5_2.rs"
+path = "src/day5_2.rs"
 
 [[bin]]
 name = "day6"
-path = "day6.rs"
+path = "src/day6.rs"
