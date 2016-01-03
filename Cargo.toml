@@ -5,6 +5,7 @@ authors = ["Markus Pointner <markus.pointner@mooware.at>"]
 
 [dependencies]
 rust-crypto = "^0.2"
+pcre = "^0.2"
 
 [[bin]]
 name = "day1"
@@ -29,3 +30,7 @@ path = "day4.rs"
 [[bin]]
 name = "day5"
 path = "day5.rs"
+
+[[bin]]
+name = "day5_2"
+path = "day5_2.rs"
